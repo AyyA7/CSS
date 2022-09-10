@@ -1,0 +1,114 @@
+
+body {
+    margin: 80px auto 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #FFF5E4;
+    font-size: 150%;
+    text-align: center;
+}
+
+section {
+    width: 80%;
+    margin: auto auto 80px auto;
+}
+
+.games img {
+    width: 70%;
+}
+
+h1 {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #CD4631;
+    margin: 50px;
+}
+
+nav {
+    padding: 30px;
+}
+
+a {
+    color: #850E35;
+    margin: 0 40px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EE6983;
+}
+
+p {
+    margin: 40px auto 40px auto;
+    line-height: 2;
+}
+
+.home-page img {
+    width: 60%;
+}
+
+h2 {
+    color: #EE6983;
+    margin: 20px auto 0;
+}
+
+h3 {
+    color: #EE6983;
+}
+
+ul {
+    padding: 0;
+}
+
+article li {
+    color: #850E35;
+    font-weight: 550;
+    font-size: 1.3rem;
+    list-style-position: inside;
+    margin: 30px auto;
+}
+
+.btn {
+    background: #E80F88;
+    background-image: -webkit-linear-gradient(top, #E80F88, #AF0171);
+    background-image: -moz-linear-gradient(top, #E80F88, #AF0171);
+    background-image: -ms-linear-gradient(top, #E80F88, #AF0171);
+    background-image: -o-linear-gradient(top, #E80F88, #AF0171);
+    background-image: linear-gradient(to bottom, #E80F88, #AF0171);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+    background: #EBC7E8;
+    background-image: -webkit-linear-gradient(top, #EBC7E8, #BFACE0);
+    background-image: -moz-linear-gradient(top, #EBC7E8, #BFACE0);
+    background-image: -ms-linear-gradient(top, #EBC7E8, #BFACE0);
+    background-image: -o-linear-gradient(top, #EBC7E8, #BFACE0);
+    background-image: linear-gradient(to bottom, #EBC7E8, #BFACE0);
+    text-decoration: none;
+}
+
+footer {
+    background-color: #EE6983;
+    padding: 50px 0;
+}
+
+div {
+    margin-bottom: 80px;
+}
+
+.footer-link:hover {
+    color: #ffffff;
+}
+
+.copyright {
+    color: #ffffff;
+    font-size: 1rem;
+    margin: 50px auto 0 auto;
+    font-weight: bold;
+}
